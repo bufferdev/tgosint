@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+*.session
+*.session-journal
+*.jpg
+*.png
+exports/
+.DS_Store
+.idea/
+.vscode/
