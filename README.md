@@ -32,7 +32,7 @@ The goal is to provide a framework for **ethical**, **documented**, and **reprod
 ## Installation
 
 ```
-git clone https://github.com/<your-username>/tgosint.git
+git clone https://github.com/bufferdev/tgosint.git
 cd tgosint
 
 
